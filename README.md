@@ -1,15 +1,21 @@
 # Computer-Vision-
 ## FALL 2022
+
 16-720B Computer Vision
-Last updated October 23, 2022
-Days MW
+
+
 Room DH A302 [Doherty Hall]
+
+
 Time 11:50AM - 1:10 PM
+
+
 Units 12
+
+
 Lecturer Kris Kitani
-TAs Rawal Khirodkar, Sheng-Yu Wang, Rohan Choudhury, Jinkun Cao, Arkadeep Chaudhury
-Class Discussion and Slides piazza.com/cmu/fall2022/16720b/home (Code: 16720)
-Zoom (Live Stream Only) Meeting ID: 947-7776-5416 (Passcode: 16720)
+
+
 ## Description
 This course introduces the fundamental techniques used in computer vision, that is, the analysis of patterns in visual
 images to reconstruct and understand the objects and scenes that generated them. Topics covered include image pro-
