@@ -3,10 +3,6 @@
 
 16-720B Computer Vision
 
-Room DH A302 [Doherty Hall]
-
-Time 11:50AM - 1:10 PM
-
 Units 12
 
 Lecturer Kris Kitani
