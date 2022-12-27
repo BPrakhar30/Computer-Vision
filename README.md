@@ -1,4 +1,4 @@
-# Computer-Vision-
+# Computer-Vision
 
 ## Project Outcomes
 (1) Implementing the Hough Transform to detect lines in an image
